@@ -1,1 +1,8 @@
-# TP2-AA2-Lorenzetti_Farias_Garcia
+# Trabajo Práctico N° 2
+# Aprendizaje Automático II
+
+## Integrantes:
+
+- Augusto Farias
+- Timoteo Garcia
+- Guido Lorenzetti
